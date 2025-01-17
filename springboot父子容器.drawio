@@ -70,6 +70,9 @@
             <mxPoint x="250" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="7OjdWX7iwCJd2l1jejAg-19" value="相关资料：https://docs.spring.io/spring-boot/docs/2.7.18/reference/htmlsingle/#features.spring-application.fluent-builder-api&lt;div&gt;https://www.baeldung.com/spring-boot-context-hierarchy&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="100" y="310" width="460" height="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
